@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shaowen310
-- 👀 I’m interested in data science.
+- 🎯 I’m interested in data science.
 - 💼 I’m currently working as an ERP consultant.
 
 <!---
